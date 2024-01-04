@@ -1,0 +1,30 @@
+
+<-- Materials & Lighting --> 
+
+-MeshBasicMaterial 
+- MeshPhongMaterial 
+ 
+ -Shiny 
+ -Light Required
+-MeshLambertMaterial 
+  -Matte Style
+  -Light Required
+
+-MeshStandardMaterial 
+  -Combo 
+  -Light Required 
+
+
+  <-- Lighting --> 
+
+  - AmbientLight 
+
+  - All Around Light
+
+  -DirectionalLight
+  -- Emulates The Sun 
+  -Light Beams From Specific Angle and Disperses Outward 
+  -SpotLight 
+  
+  -Point Light
+  
